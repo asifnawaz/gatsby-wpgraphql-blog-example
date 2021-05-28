@@ -3,7 +3,7 @@ module.exports = {
     title: `Gatsby WPGraphQL Source Demo`,
     description: `Gatsby demo site with WPGraphQL as the source.`,
     author: `@wpgraphql`,
-    wordPressUrl: `https://wpgraphqldemo.wpengine.com`,
+    wordPressUrl: `https://sirfhungama.com`,
   },
   plugins: [
     // Include Ant Design component library.
@@ -62,7 +62,7 @@ module.exports = {
         // This is field under which it's accessible
         fieldName: `wpgraphql`,
         // Url to query from
-        url: `https://demo.wpgraphql.com/graphql`,
+        url: `https://sirfhungama.com/graphql`,
       },
     },
     `gatsby-plugin-react-helmet`,
